@@ -37,7 +37,7 @@ The script will:
 
 1. **Clone or download the script:**
 ```bash
-git clone https://github.com/yourusername/JetsonOrinNanoSuperDeveloperKit.git
+git clone https://github.com/sojoudian/JetsonOrinNanoSuperDeveloperKit.git
 cd JetsonOrinNanoSuperDeveloperKit
 ```
 
